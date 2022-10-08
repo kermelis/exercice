@@ -1,3 +1,3 @@
 const b = () => {
-    console.log(" salut le monde mes amis ");
+    console.log(" sa le monde mes s ");
 }
